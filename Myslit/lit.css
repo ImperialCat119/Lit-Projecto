@@ -1,0 +1,90 @@
+body {
+    display: grid;
+    place-items: center;
+    background-color: black;
+    margin: 0rem;
+    overflow: hidden;
+    color: green;
+  }
+  
+  h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 2rem;
+    color: green;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  }
+
+  h3 {
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    color: green;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  }
+
+  h4 {
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    color: green;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  }
+
+  h5 {
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    color: green;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  }
+
+  h6 {
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    color: green;
+    padding: 0rem clamp(1rem, 2vw, 3rem);
+    border-radius: clamp(0.4rem, 0.75vw, 1rem);
+  }
+
+  #i1{
+    width: 100%;
+    height: 200px;
+    place-items: center;
+    display: grid;
+    overflow: hidden;
+  }
+
+  #i2{
+    width: 100%;
+    height: 200px;
+    place-items: center;
+    display: grid;
+    overflow: hidden;
+  }
+
+  #i3{
+    width: 100%;
+    height: 200px;
+    place-items: center;
+    display: grid;
+    overflow: hidden;
+  }
+
+
+  #i4{
+    width: 100%;
+    height: 200px;
+    place-items: center;
+    display: grid;
+    overflow: hidden;
+  }
+
+  #i5{
+    width: 100%;
+    height: 200px;
+    place-items: center;
+    display: grid;
+    overflow: hidden;
+    color
+  }
